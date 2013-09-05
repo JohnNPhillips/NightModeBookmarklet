@@ -1,0 +1,1 @@
+javascript:(function(){var%20allElem=document.getElementsByTagName(%22*%22);for(var%20i=0;i%3CallElem.length;i++){var%20e=allElem[i];e.style.color=%22white%22;e.style.backgroundColor=%22black%22;e.style.backgroundImage=%22none%22}})();
